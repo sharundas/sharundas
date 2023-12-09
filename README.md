@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
 
 <h2> Hey there! I'M Sharun</h2>
 
@@ -11,6 +11,9 @@
 - ✍️ &nbsp; Pursuing video editing and Reading are the hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
