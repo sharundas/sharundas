@@ -25,10 +25,10 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Material-UI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+      ![Material-UI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui)
+       ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+      ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+      ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 
 - 🛢 &nbsp;
