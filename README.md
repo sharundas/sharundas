@@ -6,14 +6,14 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Bsc Graduation On Mathematics at Kerala university Christian College.
-- 💼 &nbsp; Currently Studyig and Exploring the world of Web Developing
+- 💼 &nbsp; Currently Studying and Exploring the world of Web Developing
 - 🌱 &nbsp; Learning more about MERN Stack technology and more...
 - ✍️ &nbsp; Pursuing video editing and Reading are the hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
